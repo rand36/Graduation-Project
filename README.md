@@ -1,4 +1,5 @@
 GuidJo app
+
 Welcome to the GuidJo App! This project is designed to help users discover and explore various tourist attractions in Jordan. The app provides detailed information about different places, allows users to interact with each other, and supports event creation and management.
 
 Features:
